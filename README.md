@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WestCoastGod
+- 👀 I’m interested in computer science, AI, internet security, compuetr hardwares and sports, music, movies!!!
+- 🌱 I’m currently learning C language and Python
+- 💞️ I’m looking to collaborate on programming language learning projects!
+- 📫 How to reach me? Discord: WestCoastGod#1120
